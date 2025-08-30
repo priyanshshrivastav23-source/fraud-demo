@@ -1,0 +1,12 @@
+{
+  "threshold": 0.3,
+  "feature_order": [
+    "UserID",
+    "Amount",
+    "Hour",
+    "DayOfWeek",
+    "Location",
+    "Merchant",
+    "Type"
+  ]
+}

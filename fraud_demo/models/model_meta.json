@@ -1,0 +1,1 @@
+{"features": ["UserID", "Amount", "Merchant", "Location", "Type", "Hour", "DayOfWeek", "FraudLabel"], "numeric_features": ["Amount", "Hour", "DayOfWeek"], "categorical_features": ["UserID", "Merchant", "Location", "Type", "FraudLabel"], "threshold": 0.3}

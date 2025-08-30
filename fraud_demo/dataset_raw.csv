@@ -1,0 +1,1001 @@
+UserID,Amount,Merchant,Location,Type,Hour,DayOfWeek,FraudLabel
+U001,44124.17,Uber,Delhi,ATM,5,4,1
+U003,10885.31,Myntra,Mumbai,In-Store,19,5,0
+U001,15923.68,Uber,Delhi,In-Store,17,5,0
+U005,20714.95,Paytm,Mumbai,In-Store,17,3,0
+U002,49147.92,Swiggy,New York,Online,9,3,1
+U004,37871.85,Zomato,Indore,Online,0,1,0
+U003,34243.45,Zomato,London,UPI,15,6,1
+U001,46243.53,Myntra,Bangalore,ATM,21,1,1
+U004,28435.65,Uber,Delhi,ATM,7,5,0
+U002,9187.84,Amazon,Bangalore,Online,23,0,0
+U004,46171.38,Swiggy,Mumbai,In-Store,16,4,1
+U005,42641.32,Amazon,New York,In-Store,20,0,1
+U003,17053.21,Flipkart,Bangalore,UPI,20,3,0
+U005,7004.54,Uber,Indore,UPI,9,2,0
+U002,30492.38,Zomato,Bangalore,Online,0,5,0
+U001,30223.23,Myntra,Delhi,ATM,23,2,0
+U003,2570.58,Ola,Indore,UPI,7,3,0
+U002,21917.08,Flipkart,Mumbai,In-Store,9,6,0
+U003,17633.91,Flipkart,Bangalore,UPI,5,0,0
+U003,34999.12,Uber,Delhi,UPI,18,1,0
+U005,33578.99,Uber,London,UPI,11,2,1
+U003,39544.05,Swiggy,Mumbai,ATM,16,0,0
+U003,47974.54,Ola,New York,ATM,0,1,1
+U004,31346.58,Myntra,Indore,In-Store,12,5,0
+U003,33616.88,Ola,Indore,Online,11,3,0
+U001,15892.03,Uber,Indore,In-Store,15,4,0
+U005,4260.0,Myntra,Mumbai,UPI,18,2,0
+U003,18251.85,Swiggy,Mumbai,ATM,15,0,0
+U004,23301.52,Paytm,London,Online,11,2,1
+U003,942.82,Uber,Indore,Online,3,0,0
+U001,39271.05,Zomato,Mumbai,In-Store,18,3,0
+U005,13933.18,Myntra,New York,Online,19,2,1
+U005,21804.4,Ola,Delhi,ATM,9,6,0
+U004,25274.49,Uber,Delhi,In-Store,9,4,0
+U004,38567.77,Swiggy,Delhi,Online,0,0,0
+U001,216.05,Ola,New York,UPI,2,2,1
+U001,41236.47,Swiggy,London,In-Store,2,5,1
+U005,44311.14,Ola,London,Online,5,2,1
+U005,31518.71,Uber,Mumbai,In-Store,15,2,0
+U004,29193.94,Myntra,Mumbai,Online,15,3,0
+U005,1117.74,Myntra,Bangalore,ATM,21,6,0
+U001,41087.4,Myntra,Mumbai,Online,10,3,1
+U003,33281.69,Swiggy,London,Online,22,2,1
+U002,37931.58,Flipkart,London,UPI,0,6,1
+U003,27881.9,Ola,Mumbai,ATM,11,0,0
+U001,11517.6,Amazon,Mumbai,Online,20,1,0
+U005,30167.67,Myntra,Mumbai,UPI,19,4,0
+U005,8521.89,Uber,Bangalore,Online,1,3,0
+U002,45605.35,Amazon,Mumbai,In-Store,20,0,1
+U003,37897.63,Uber,London,In-Store,18,2,1
+U005,38561.88,Zomato,London,In-Store,19,0,1
+U004,20250.48,Swiggy,London,ATM,18,3,1
+U003,36094.36,Uber,London,ATM,5,5,1
+U002,48065.26,Paytm,Bangalore,ATM,13,5,1
+U002,22424.16,Uber,Indore,ATM,12,3,0
+U003,15770.34,Swiggy,Bangalore,UPI,23,5,0
+U001,30954.09,Flipkart,Indore,In-Store,2,3,0
+U004,2890.65,Uber,London,Online,8,0,1
+U001,11399.19,Amazon,Delhi,Online,14,1,0
+U005,39539.69,Myntra,Bangalore,In-Store,6,5,0
+U003,43666.64,Paytm,London,ATM,23,4,1
+U002,12250.68,Myntra,Mumbai,In-Store,3,5,0
+U004,31428.7,Uber,New York,Online,10,3,1
+U005,3474.67,Paytm,New York,Online,13,5,1
+U003,49882.84,Paytm,Bangalore,UPI,17,0,1
+U002,42028.12,Uber,Bangalore,ATM,10,6,1
+U001,28900.63,Uber,Mumbai,Online,2,5,0
+U001,40332.84,Amazon,Mumbai,Online,23,3,1
+U002,19204.13,Zomato,Delhi,In-Store,17,3,0
+U001,16275.17,Amazon,Delhi,ATM,6,1,0
+U003,20625.38,Zomato,Indore,UPI,20,3,0
+U003,23652.99,Ola,Mumbai,In-Store,12,6,0
+U002,22328.03,Amazon,Bangalore,UPI,10,2,0
+U005,5734.62,Ola,New York,ATM,17,5,1
+U001,332.42,Flipkart,Bangalore,In-Store,2,1,0
+U001,32775.97,Zomato,Indore,In-Store,6,3,0
+U005,22900.19,Swiggy,Delhi,ATM,8,3,0
+U003,34125.73,Uber,Delhi,Online,12,1,0
+U002,7173.05,Myntra,Bangalore,Online,3,2,0
+U004,6057.91,Amazon,New York,ATM,7,2,1
+U002,38804.56,Ola,Bangalore,In-Store,18,5,0
+U005,35991.24,Flipkart,Bangalore,Online,17,5,0
+U005,20718.61,Amazon,Indore,ATM,2,3,0
+U004,30286.94,Amazon,Mumbai,ATM,22,0,0
+U005,21548.53,Zomato,Bangalore,In-Store,17,3,0
+U002,27605.0,Amazon,Indore,Online,9,2,0
+U004,32155.52,Myntra,Mumbai,ATM,15,5,0
+U002,47892.59,Paytm,Mumbai,UPI,10,1,1
+U004,40250.98,Amazon,Mumbai,Online,19,5,1
+U003,11088.26,Swiggy,Indore,ATM,4,0,0
+U001,13384.3,Zomato,Mumbai,UPI,14,2,0
+U001,8715.13,Amazon,London,Online,13,4,1
+U002,9462.47,Swiggy,Indore,In-Store,8,1,0
+U005,21417.57,Zomato,Delhi,Online,13,6,0
+U001,23915.25,Ola,Delhi,Online,16,0,0
+U005,14408.4,Swiggy,Bangalore,In-Store,19,5,0
+U001,41886.26,Ola,Indore,ATM,4,2,1
+U005,5682.5,Paytm,Bangalore,Online,14,0,0
+U002,5159.86,Flipkart,Mumbai,UPI,3,6,0
+U003,15801.25,Paytm,Indore,Online,6,0,0
+U001,4628.16,Flipkart,Delhi,ATM,12,4,0
+U001,37121.05,Flipkart,Delhi,In-Store,10,1,0
+U003,43352.43,Myntra,London,Online,17,5,1
+U001,27777.5,Uber,Mumbai,ATM,19,5,0
+U001,38625.7,Paytm,Mumbai,UPI,1,5,0
+U005,38497.66,Uber,Delhi,In-Store,10,6,0
+U005,27009.79,Paytm,Indore,In-Store,10,4,0
+U005,22375.5,Uber,London,ATM,21,3,1
+U005,26416.7,Uber,New York,Online,3,0,1
+U003,18125.32,Amazon,New York,Online,1,5,1
+U003,19132.49,Paytm,New York,Online,20,6,1
+U005,30484.76,Amazon,New York,UPI,14,4,1
+U001,5896.65,Uber,Bangalore,Online,20,4,0
+U003,9337.83,Myntra,New York,ATM,8,5,1
+U003,21018.1,Amazon,Delhi,In-Store,15,0,0
+U005,9162.61,Flipkart,Mumbai,In-Store,16,3,0
+U004,26706.08,Flipkart,Indore,Online,4,6,0
+U002,14243.87,Paytm,Mumbai,Online,15,6,0
+U003,24060.95,Myntra,London,Online,21,5,1
+U002,25846.41,Flipkart,Bangalore,Online,16,4,0
+U003,25134.82,Paytm,New York,ATM,13,3,1
+U004,42807.98,Ola,Delhi,In-Store,2,6,1
+U004,30327.92,Myntra,London,Online,7,5,1
+U004,44238.3,Flipkart,Bangalore,Online,14,4,1
+U005,29186.37,Swiggy,New York,UPI,15,0,1
+U003,36349.63,Uber,London,ATM,19,2,1
+U004,15664.2,Flipkart,Mumbai,Online,21,3,0
+U001,13295.77,Zomato,Indore,In-Store,4,3,0
+U001,25954.46,Ola,Bangalore,UPI,6,5,0
+U002,22029.96,Swiggy,Indore,UPI,15,5,0
+U005,33974.48,Zomato,Indore,Online,23,2,0
+U004,34447.14,Flipkart,Bangalore,In-Store,4,5,0
+U004,2527.22,Amazon,Mumbai,UPI,2,3,0
+U001,4766.76,Ola,Indore,UPI,8,1,0
+U004,12481.03,Amazon,New York,Online,21,0,1
+U002,3454.03,Flipkart,London,UPI,15,2,1
+U001,46374.46,Paytm,Delhi,ATM,23,3,1
+U001,24013.4,Paytm,New York,ATM,8,0,1
+U004,20394.44,Paytm,Mumbai,UPI,6,2,0
+U001,39978.9,Swiggy,Indore,In-Store,2,0,0
+U001,33745.58,Swiggy,London,Online,7,0,1
+U005,26083.3,Zomato,Indore,Online,22,1,0
+U001,43279.65,Uber,London,In-Store,2,0,1
+U001,25259.56,Amazon,Mumbai,ATM,1,0,0
+U005,46453.05,Myntra,Indore,ATM,9,5,1
+U003,27651.87,Uber,Delhi,ATM,4,4,0
+U004,4915.48,Uber,London,Online,6,3,1
+U005,35990.6,Amazon,Bangalore,ATM,9,2,0
+U001,200.28,Zomato,Mumbai,Online,5,2,0
+U003,34885.72,Swiggy,Indore,UPI,2,2,0
+U003,39637.21,Zomato,Indore,UPI,16,3,0
+U002,32190.32,Swiggy,Mumbai,Online,19,5,0
+U002,26596.42,Paytm,Indore,Online,1,1,0
+U004,41903.19,Uber,London,In-Store,17,1,1
+U003,2775.25,Myntra,Indore,In-Store,6,2,0
+U002,43689.41,Swiggy,New York,In-Store,1,0,1
+U002,34385.6,Ola,Bangalore,UPI,1,0,0
+U004,31451.31,Paytm,New York,ATM,8,5,1
+U001,5767.83,Paytm,Bangalore,ATM,18,5,0
+U004,36554.93,Uber,Delhi,ATM,19,3,0
+U002,28631.33,Myntra,Delhi,ATM,15,1,0
+U003,31550.34,Amazon,Indore,UPI,21,6,0
+U003,23133.81,Uber,Delhi,Online,15,3,0
+U001,28318.41,Ola,Mumbai,In-Store,15,3,0
+U003,9266.38,Ola,Indore,UPI,7,0,0
+U002,41453.83,Amazon,Bangalore,In-Store,14,2,1
+U002,33473.59,Zomato,London,UPI,3,4,1
+U004,3266.02,Zomato,Indore,Online,9,5,0
+U003,36099.7,Uber,Mumbai,ATM,3,4,0
+U001,14560.42,Amazon,London,In-Store,18,2,1
+U001,43010.93,Amazon,Mumbai,UPI,5,4,1
+U004,49984.36,Paytm,New York,In-Store,12,3,1
+U005,28191.5,Paytm,Delhi,In-Store,15,5,0
+U002,23651.39,Flipkart,Indore,ATM,17,1,0
+U003,30196.31,Ola,Indore,Online,0,2,0
+U001,33464.23,Ola,Delhi,Online,2,6,0
+U002,15766.71,Amazon,Mumbai,UPI,16,1,0
+U001,218.66,Swiggy,London,ATM,1,4,1
+U004,4808.0,Ola,Indore,In-Store,5,1,0
+U002,29723.49,Flipkart,London,UPI,23,1,1
+U003,7303.34,Myntra,Indore,UPI,2,6,0
+U004,33908.22,Uber,New York,In-Store,6,0,1
+U001,7261.45,Ola,Delhi,ATM,22,3,0
+U001,33528.8,Myntra,Mumbai,ATM,21,4,0
+U004,798.84,Ola,Mumbai,UPI,18,5,0
+U005,46524.07,Zomato,Delhi,In-Store,8,4,1
+U005,39880.1,Zomato,Delhi,In-Store,21,1,0
+U001,34633.49,Amazon,New York,ATM,16,5,1
+U003,17447.22,Flipkart,London,Online,12,5,1
+U003,46085.19,Myntra,New York,In-Store,3,2,1
+U003,3268.23,Amazon,Bangalore,Online,18,2,0
+U003,21197.05,Paytm,London,ATM,17,4,1
+U003,48166.51,Flipkart,London,UPI,13,4,1
+U003,24969.87,Paytm,Bangalore,UPI,13,5,0
+U004,5366.42,Flipkart,London,UPI,16,1,1
+U005,38010.86,Swiggy,New York,ATM,4,3,1
+U002,33806.98,Zomato,Mumbai,UPI,5,0,0
+U002,8597.55,Myntra,London,In-Store,8,5,1
+U001,25588.23,Flipkart,Delhi,Online,9,2,0
+U005,178.46,Flipkart,Indore,UPI,20,3,0
+U005,35475.43,Myntra,New York,In-Store,9,3,1
+U005,5275.3,Uber,Indore,In-Store,22,4,0
+U002,34888.72,Amazon,Indore,Online,14,3,0
+U004,4326.68,Ola,New York,In-Store,19,5,1
+U003,2628.92,Amazon,Mumbai,ATM,23,0,0
+U004,37941.89,Amazon,Mumbai,Online,20,0,0
+U003,3170.05,Ola,Bangalore,In-Store,7,5,0
+U004,26813.4,Paytm,London,Online,0,6,1
+U001,46744.83,Swiggy,Bangalore,ATM,19,2,1
+U001,12040.13,Paytm,London,Online,5,6,1
+U002,40783.01,Amazon,Bangalore,Online,16,0,1
+U003,18869.71,Myntra,Indore,ATM,0,5,0
+U004,39216.49,Flipkart,Mumbai,Online,12,4,0
+U004,42829.41,Myntra,Mumbai,In-Store,19,3,1
+U004,10015.63,Myntra,Mumbai,In-Store,17,1,0
+U002,3268.64,Zomato,New York,In-Store,16,1,1
+U002,17918.06,Amazon,Mumbai,UPI,12,4,0
+U005,26898.78,Uber,Delhi,In-Store,7,4,0
+U004,6507.37,Paytm,New York,In-Store,9,4,1
+U002,47127.64,Swiggy,London,UPI,0,3,1
+U001,42194.53,Uber,Indore,Online,7,4,1
+U003,38233.6,Uber,Delhi,In-Store,3,2,0
+U005,9256.29,Ola,Bangalore,ATM,23,3,0
+U004,30735.87,Paytm,London,Online,21,5,1
+U001,13229.96,Swiggy,London,Online,10,4,1
+U002,19140.87,Ola,Bangalore,ATM,18,3,0
+U001,16717.45,Ola,Bangalore,Online,20,5,0
+U003,43105.42,Paytm,Bangalore,Online,20,2,1
+U004,34477.61,Flipkart,New York,Online,20,2,1
+U003,39789.27,Swiggy,Bangalore,ATM,17,3,0
+U001,476.93,Ola,Mumbai,Online,17,0,0
+U004,39097.74,Swiggy,Mumbai,In-Store,9,5,0
+U001,24685.07,Swiggy,Mumbai,In-Store,5,3,0
+U001,38573.15,Ola,New York,ATM,21,3,1
+U004,41443.34,Flipkart,Indore,In-Store,18,1,1
+U003,30188.85,Flipkart,Indore,ATM,2,2,0
+U005,34883.1,Uber,Indore,UPI,10,2,0
+U001,19930.23,Ola,Bangalore,Online,15,4,0
+U003,30938.87,Paytm,New York,ATM,1,5,1
+U002,7456.42,Zomato,Bangalore,UPI,23,4,0
+U002,29937.76,Amazon,New York,UPI,10,3,1
+U004,18562.99,Flipkart,Bangalore,In-Store,19,6,0
+U001,40961.8,Uber,Indore,ATM,4,6,1
+U002,2918.35,Swiggy,New York,UPI,8,2,1
+U005,44550.53,Amazon,Bangalore,UPI,6,2,1
+U003,4441.42,Uber,Mumbai,ATM,15,2,0
+U003,2322.83,Myntra,London,UPI,11,5,1
+U004,35982.42,Paytm,London,UPI,19,3,1
+U004,35377.45,Flipkart,Delhi,In-Store,18,0,0
+U005,42258.46,Swiggy,New York,In-Store,0,6,1
+U003,39441.14,Zomato,Mumbai,In-Store,18,2,0
+U002,49259.75,Flipkart,Delhi,Online,8,2,1
+U003,48670.71,Swiggy,Mumbai,UPI,21,0,1
+U005,49710.92,Uber,Delhi,UPI,10,3,1
+U002,26336.27,Ola,London,Online,22,0,1
+U001,16281.53,Uber,Delhi,ATM,14,2,0
+U001,33702.78,Swiggy,Mumbai,UPI,16,0,0
+U003,16254.79,Zomato,Mumbai,UPI,1,5,0
+U005,30937.36,Zomato,London,Online,8,3,1
+U004,9061.77,Myntra,London,ATM,7,0,1
+U004,8342.97,Paytm,Mumbai,In-Store,17,0,0
+U005,18568.31,Zomato,London,UPI,21,1,1
+U001,40166.19,Ola,Mumbai,ATM,11,1,1
+U002,8307.49,Myntra,London,In-Store,3,1,1
+U005,39170.01,Swiggy,Mumbai,UPI,11,4,0
+U005,7587.96,Zomato,Delhi,UPI,19,4,0
+U001,6372.1,Amazon,New York,ATM,18,2,1
+U005,3027.99,Myntra,Mumbai,ATM,10,1,0
+U005,8628.1,Swiggy,New York,In-Store,2,0,1
+U002,36099.45,Paytm,London,Online,22,1,1
+U001,12880.23,Ola,London,ATM,1,2,1
+U003,9966.51,Zomato,Delhi,UPI,23,6,0
+U005,41409.1,Myntra,Delhi,ATM,22,4,1
+U005,41828.36,Swiggy,Indore,UPI,18,5,1
+U002,22203.44,Flipkart,London,ATM,17,0,1
+U004,25366.49,Paytm,New York,UPI,20,3,1
+U005,37923.21,Amazon,Bangalore,Online,7,3,0
+U001,15744.66,Ola,Indore,In-Store,10,5,0
+U002,44795.37,Paytm,Delhi,In-Store,5,5,1
+U005,6870.41,Uber,Indore,In-Store,9,5,0
+U005,37511.21,Swiggy,London,In-Store,6,3,1
+U002,14525.44,Zomato,New York,ATM,11,0,1
+U001,41898.38,Zomato,New York,UPI,1,0,1
+U003,24667.23,Flipkart,Bangalore,UPI,17,1,0
+U004,6328.72,Swiggy,New York,In-Store,20,3,1
+U004,37232.04,Flipkart,Bangalore,UPI,15,4,0
+U005,24475.03,Amazon,Mumbai,Online,14,1,0
+U002,6019.02,Amazon,Bangalore,ATM,11,2,0
+U002,18349.93,Amazon,Bangalore,ATM,21,2,0
+U003,35147.42,Amazon,New York,UPI,23,4,1
+U002,42624.07,Ola,Delhi,In-Store,16,6,1
+U004,28284.94,Amazon,Bangalore,In-Store,15,3,0
+U005,11085.0,Zomato,New York,UPI,12,2,1
+U003,2419.18,Amazon,Delhi,UPI,10,3,0
+U005,4554.65,Paytm,Mumbai,ATM,9,2,0
+U005,21335.7,Amazon,Delhi,In-Store,12,1,0
+U005,35085.89,Uber,New York,In-Store,20,1,1
+U005,44218.69,Zomato,Mumbai,ATM,9,2,1
+U005,49007.42,Myntra,New York,ATM,13,0,1
+U001,44803.51,Uber,Mumbai,UPI,9,1,1
+U003,15584.15,Myntra,London,ATM,11,4,1
+U002,36901.79,Ola,Indore,UPI,8,3,0
+U005,44483.81,Flipkart,Bangalore,In-Store,19,4,1
+U004,2084.9,Swiggy,New York,ATM,22,4,1
+U005,44445.92,Swiggy,London,Online,0,6,1
+U004,27859.21,Flipkart,Indore,UPI,18,3,0
+U005,6060.29,Swiggy,London,UPI,6,5,1
+U002,37369.67,Flipkart,Mumbai,In-Store,6,2,0
+U003,34827.95,Swiggy,London,Online,23,0,1
+U005,23245.79,Myntra,Mumbai,ATM,17,0,0
+U004,31575.89,Amazon,Delhi,UPI,21,2,0
+U004,40077.26,Amazon,New York,UPI,1,2,1
+U003,15511.76,Paytm,New York,In-Store,5,2,1
+U004,2203.24,Uber,Delhi,Online,20,5,0
+U005,34108.28,Amazon,Delhi,ATM,3,3,0
+U004,33737.35,Uber,Delhi,In-Store,4,5,0
+U004,23105.5,Uber,Delhi,ATM,23,2,0
+U005,39850.97,Swiggy,Delhi,UPI,2,3,0
+U004,6247.19,Paytm,Bangalore,UPI,18,0,0
+U002,24509.99,Ola,Indore,In-Store,1,4,0
+U005,33548.39,Flipkart,New York,Online,18,1,1
+U002,33710.28,Flipkart,Indore,Online,23,5,0
+U003,9046.04,Zomato,Bangalore,ATM,22,1,0
+U002,1395.06,Paytm,Delhi,In-Store,0,0,0
+U005,26812.38,Flipkart,New York,In-Store,19,2,1
+U001,18913.54,Amazon,London,In-Store,10,4,1
+U004,37485.52,Uber,Indore,Online,13,5,0
+U004,42525.11,Myntra,Indore,In-Store,7,3,1
+U001,13746.55,Ola,New York,ATM,3,6,1
+U005,9716.07,Paytm,Indore,ATM,8,3,0
+U005,17958.04,Zomato,Bangalore,In-Store,20,6,0
+U004,6463.11,Myntra,Delhi,ATM,18,1,0
+U003,16414.32,Zomato,Mumbai,Online,2,1,0
+U005,44609.55,Myntra,Bangalore,UPI,16,2,1
+U002,10589.46,Zomato,Delhi,Online,10,3,0
+U005,20970.3,Myntra,Indore,ATM,8,5,0
+U002,18536.17,Zomato,Delhi,In-Store,1,3,0
+U001,4115.71,Amazon,Delhi,ATM,16,3,0
+U002,21832.83,Swiggy,Delhi,In-Store,4,5,0
+U002,7012.32,Myntra,Bangalore,UPI,0,6,0
+U004,3989.15,Uber,London,Online,5,4,1
+U001,46430.48,Paytm,Mumbai,Online,4,3,1
+U002,13653.06,Uber,Delhi,In-Store,17,5,0
+U002,1060.96,Zomato,Mumbai,ATM,18,1,0
+U001,48358.34,Zomato,New York,Online,22,4,1
+U005,13534.04,Uber,Mumbai,In-Store,17,1,0
+U003,9958.63,Ola,Indore,UPI,8,6,0
+U003,21726.65,Amazon,Bangalore,ATM,13,1,0
+U004,2335.44,Zomato,Indore,In-Store,2,1,0
+U001,9892.67,Amazon,London,Online,3,4,1
+U002,3768.55,Myntra,Mumbai,In-Store,16,5,0
+U004,31099.82,Myntra,London,ATM,8,2,1
+U001,2048.62,Swiggy,New York,In-Store,8,6,1
+U005,17921.69,Paytm,Indore,ATM,7,4,0
+U002,1311.43,Swiggy,London,In-Store,5,4,1
+U005,39633.03,Swiggy,New York,UPI,6,2,1
+U001,23929.15,Ola,New York,UPI,14,6,1
+U001,33738.96,Flipkart,London,Online,10,5,1
+U002,33014.42,Paytm,Delhi,Online,10,6,0
+U003,9279.76,Myntra,Indore,UPI,7,3,0
+U005,35412.39,Ola,Mumbai,Online,21,3,0
+U001,14734.66,Paytm,Delhi,In-Store,14,4,0
+U005,20287.49,Uber,New York,Online,6,4,1
+U003,32598.7,Zomato,New York,In-Store,8,3,1
+U002,41804.82,Swiggy,Bangalore,In-Store,6,3,1
+U004,8421.5,Flipkart,London,In-Store,0,0,1
+U004,47630.92,Paytm,Delhi,ATM,11,3,1
+U004,38936.26,Ola,Mumbai,Online,0,0,0
+U005,22897.64,Ola,London,Online,3,0,1
+U002,6709.86,Paytm,London,Online,14,4,1
+U001,193.46,Ola,Delhi,In-Store,9,3,0
+U004,17994.1,Zomato,Indore,UPI,5,5,0
+U005,49822.32,Myntra,Bangalore,UPI,13,3,1
+U002,11196.26,Myntra,Bangalore,In-Store,8,6,0
+U005,18552.02,Swiggy,Indore,In-Store,15,3,0
+U004,34690.09,Paytm,Mumbai,UPI,16,6,0
+U003,18289.37,Paytm,Bangalore,In-Store,12,6,0
+U005,4205.68,Amazon,Mumbai,UPI,4,3,0
+U003,29072.54,Amazon,London,In-Store,18,0,1
+U004,41928.44,Myntra,Mumbai,In-Store,15,1,1
+U004,29756.18,Flipkart,New York,ATM,17,6,1
+U003,48963.4,Swiggy,Mumbai,ATM,17,0,1
+U005,17143.48,Swiggy,New York,UPI,21,6,1
+U005,13733.43,Flipkart,Delhi,ATM,9,3,0
+U001,48847.03,Zomato,Indore,UPI,1,1,1
+U002,15027.43,Paytm,Indore,Online,2,1,0
+U003,24856.61,Myntra,Indore,ATM,2,2,0
+U001,34567.95,Zomato,Mumbai,ATM,13,1,0
+U002,38264.22,Amazon,Bangalore,ATM,20,6,0
+U001,2703.03,Amazon,Indore,ATM,1,1,0
+U001,6868.92,Zomato,Bangalore,Online,6,4,0
+U001,24608.81,Uber,London,ATM,1,3,1
+U002,3313.78,Flipkart,London,UPI,21,4,1
+U003,37008.9,Ola,Mumbai,In-Store,11,4,0
+U001,45101.06,Swiggy,Bangalore,ATM,0,3,1
+U005,39593.87,Ola,Mumbai,ATM,1,4,0
+U004,15979.55,Myntra,Mumbai,In-Store,16,3,0
+U004,2729.21,Flipkart,Mumbai,Online,14,4,0
+U002,12741.17,Swiggy,London,UPI,0,6,1
+U005,19485.3,Ola,Bangalore,Online,20,1,0
+U004,5225.12,Swiggy,Mumbai,UPI,1,5,0
+U004,23732.97,Paytm,Delhi,In-Store,19,5,0
+U001,33581.34,Zomato,Mumbai,In-Store,17,5,0
+U003,1698.27,Paytm,Delhi,In-Store,15,5,0
+U002,37099.87,Swiggy,Delhi,UPI,23,3,0
+U001,14739.76,Paytm,Delhi,UPI,6,2,0
+U001,25504.6,Myntra,London,Online,19,5,1
+U005,33817.08,Paytm,New York,In-Store,15,6,1
+U001,48331.92,Amazon,Bangalore,In-Store,23,6,1
+U003,18814.22,Amazon,New York,UPI,19,6,1
+U002,33765.18,Myntra,Mumbai,ATM,20,2,0
+U004,1940.57,Ola,Indore,In-Store,3,3,0
+U002,39710.35,Flipkart,Delhi,Online,21,3,0
+U005,23296.11,Flipkart,London,In-Store,17,2,1
+U003,20523.58,Myntra,New York,ATM,13,4,1
+U001,28086.39,Zomato,Bangalore,ATM,0,1,0
+U005,21699.57,Myntra,Bangalore,In-Store,11,3,0
+U003,8515.09,Ola,New York,Online,21,2,1
+U001,49734.98,Amazon,Delhi,ATM,7,3,1
+U002,26434.94,Flipkart,London,UPI,4,1,1
+U005,20473.33,Flipkart,Indore,Online,18,3,0
+U005,11728.62,Uber,Delhi,In-Store,17,5,0
+U004,34649.91,Flipkart,New York,ATM,5,2,1
+U001,32920.09,Myntra,Indore,ATM,9,0,0
+U005,38551.34,Paytm,New York,ATM,3,3,1
+U002,39332.74,Uber,London,ATM,0,1,1
+U002,13662.43,Swiggy,Mumbai,ATM,10,2,0
+U002,12480.27,Swiggy,Mumbai,Online,22,1,0
+U004,15688.15,Flipkart,Bangalore,In-Store,16,6,0
+U004,24076.18,Ola,Mumbai,ATM,23,2,0
+U004,20390.88,Amazon,Mumbai,UPI,14,4,0
+U004,31109.69,Myntra,Indore,In-Store,4,0,0
+U003,3646.78,Ola,London,In-Store,2,3,1
+U001,49753.42,Paytm,Delhi,In-Store,23,5,1
+U003,566.8,Zomato,London,UPI,11,2,1
+U003,21296.26,Paytm,Indore,Online,0,0,0
+U003,23045.14,Myntra,Mumbai,In-Store,9,3,0
+U004,42538.88,Zomato,Bangalore,Online,3,2,1
+U002,11020.28,Paytm,New York,In-Store,0,3,1
+U005,10636.89,Uber,Delhi,UPI,17,4,0
+U003,46933.46,Uber,London,ATM,9,4,1
+U004,38505.79,Paytm,Delhi,In-Store,21,2,0
+U001,4481.87,Ola,New York,UPI,3,4,1
+U004,39346.88,Myntra,Bangalore,In-Store,4,4,0
+U005,5825.63,Ola,Mumbai,In-Store,3,2,0
+U004,37945.37,Swiggy,Indore,UPI,20,3,0
+U001,2958.91,Zomato,Mumbai,ATM,8,4,0
+U001,29692.23,Myntra,Mumbai,Online,23,5,0
+U005,5864.6,Zomato,London,In-Store,5,4,1
+U001,16146.6,Uber,Mumbai,Online,18,5,0
+U003,38187.99,Myntra,Bangalore,Online,6,3,0
+U005,47984.34,Zomato,Bangalore,Online,9,3,1
+U001,4900.2,Amazon,London,UPI,15,2,1
+U002,2070.21,Ola,Delhi,ATM,8,0,0
+U004,34568.91,Myntra,Mumbai,UPI,4,6,0
+U004,33519.68,Myntra,Delhi,Online,11,6,0
+U002,27073.1,Flipkart,Bangalore,ATM,9,5,0
+U002,33620.63,Flipkart,London,ATM,6,0,1
+U004,38425.73,Ola,Indore,UPI,19,1,0
+U004,39889.57,Amazon,London,In-Store,11,2,1
+U004,16585.91,Myntra,London,ATM,14,5,1
+U004,33773.64,Amazon,Indore,UPI,3,4,0
+U005,8059.6,Swiggy,Bangalore,In-Store,7,2,0
+U001,48462.19,Paytm,London,UPI,1,5,1
+U001,14651.35,Ola,London,UPI,6,3,1
+U005,40906.57,Amazon,New York,ATM,17,6,1
+U003,15290.27,Paytm,Mumbai,UPI,23,1,0
+U002,28341.68,Paytm,Delhi,In-Store,21,1,0
+U004,3202.89,Uber,New York,ATM,23,3,1
+U002,49510.48,Swiggy,New York,ATM,8,2,1
+U001,15424.57,Zomato,Delhi,Online,17,2,0
+U004,29270.32,Swiggy,London,UPI,6,3,1
+U005,20404.74,Uber,Indore,Online,2,6,0
+U001,34714.0,Ola,London,Online,17,4,1
+U001,8749.98,Paytm,New York,ATM,14,6,1
+U002,42514.61,Flipkart,London,Online,22,4,1
+U001,5098.28,Paytm,Indore,UPI,0,6,0
+U005,34132.97,Ola,Mumbai,In-Store,10,2,0
+U005,10759.89,Flipkart,Delhi,ATM,15,5,0
+U003,39943.77,Flipkart,Mumbai,Online,21,1,0
+U005,14331.18,Amazon,Mumbai,ATM,10,1,0
+U002,4785.5,Paytm,Indore,In-Store,22,0,0
+U005,11647.27,Zomato,Bangalore,UPI,19,1,0
+U001,34486.64,Zomato,Indore,UPI,2,4,0
+U002,48565.12,Myntra,Delhi,In-Store,10,3,1
+U003,30030.55,Ola,Indore,In-Store,8,6,0
+U002,35824.71,Amazon,Indore,UPI,10,3,0
+U001,49492.11,Myntra,Delhi,In-Store,15,0,1
+U004,48598.51,Swiggy,Indore,Online,20,1,1
+U005,32806.25,Swiggy,Bangalore,ATM,10,2,0
+U004,37585.37,Paytm,Indore,UPI,5,4,0
+U002,48513.29,Flipkart,Bangalore,ATM,7,2,1
+U001,26083.4,Uber,Bangalore,ATM,12,2,0
+U001,30885.41,Amazon,Delhi,In-Store,17,0,0
+U003,24597.08,Myntra,Mumbai,Online,0,6,0
+U004,47588.35,Uber,Mumbai,ATM,1,2,1
+U003,1594.31,Uber,Delhi,In-Store,4,3,0
+U003,27802.9,Ola,Indore,ATM,14,1,0
+U004,33560.25,Uber,Delhi,ATM,12,1,0
+U003,32029.42,Amazon,Bangalore,ATM,17,6,0
+U005,42435.61,Uber,London,Online,16,6,1
+U002,32874.19,Flipkart,Delhi,ATM,11,0,0
+U003,40869.49,Ola,Mumbai,UPI,0,5,1
+U004,25322.23,Zomato,New York,Online,6,2,1
+U001,23150.5,Myntra,Delhi,ATM,20,1,0
+U003,43796.18,Amazon,New York,In-Store,20,0,1
+U001,35952.33,Paytm,Bangalore,In-Store,10,4,0
+U005,32773.7,Amazon,Mumbai,Online,19,2,0
+U005,47857.42,Swiggy,Indore,ATM,19,1,1
+U005,15750.59,Amazon,Mumbai,In-Store,5,4,0
+U002,33969.68,Flipkart,London,UPI,17,4,1
+U002,12235.48,Paytm,Delhi,Online,12,2,0
+U002,35375.96,Swiggy,Delhi,ATM,16,5,0
+U004,17346.51,Ola,New York,In-Store,21,0,1
+U005,47392.68,Uber,Bangalore,Online,16,4,1
+U005,20980.33,Flipkart,Mumbai,UPI,20,0,0
+U002,14667.56,Ola,Bangalore,UPI,6,6,0
+U001,1685.61,Zomato,Mumbai,In-Store,12,1,0
+U005,10754.35,Myntra,Bangalore,In-Store,14,5,0
+U005,34428.21,Amazon,Mumbai,UPI,4,2,0
+U004,48094.1,Amazon,London,Online,5,2,1
+U002,7150.21,Myntra,Bangalore,In-Store,1,1,0
+U003,42196.93,Myntra,Delhi,Online,13,3,1
+U005,15309.66,Zomato,Delhi,ATM,15,6,0
+U003,19510.73,Uber,Bangalore,In-Store,6,6,0
+U005,35292.52,Ola,New York,In-Store,19,2,1
+U005,36728.03,Uber,London,ATM,5,0,1
+U001,25388.61,Amazon,Bangalore,UPI,10,3,0
+U003,2654.62,Uber,Delhi,ATM,8,5,0
+U002,19907.22,Amazon,Delhi,Online,12,6,0
+U005,5154.88,Zomato,Mumbai,UPI,2,3,0
+U002,42195.94,Amazon,Delhi,Online,0,5,1
+U005,44473.99,Myntra,Bangalore,In-Store,21,4,1
+U001,13607.8,Myntra,Delhi,ATM,7,6,0
+U001,45069.86,Uber,Bangalore,ATM,5,0,1
+U003,23816.24,Paytm,New York,ATM,5,2,1
+U005,13680.79,Zomato,New York,UPI,19,4,1
+U003,9559.62,Uber,New York,UPI,12,3,1
+U004,24707.08,Zomato,Indore,Online,4,5,0
+U003,49426.77,Zomato,Mumbai,Online,4,2,1
+U005,13160.12,Uber,Bangalore,Online,11,1,0
+U004,22071.92,Myntra,Mumbai,In-Store,12,0,0
+U005,30394.86,Swiggy,Mumbai,In-Store,23,0,0
+U004,46996.03,Ola,London,UPI,13,5,1
+U001,49179.75,Paytm,Delhi,Online,5,5,1
+U002,21821.46,Paytm,New York,UPI,23,3,1
+U004,44497.7,Uber,Delhi,Online,5,1,1
+U002,2877.44,Ola,Bangalore,In-Store,12,3,0
+U005,44000.38,Swiggy,Mumbai,In-Store,9,5,1
+U003,38809.38,Swiggy,New York,Online,0,4,1
+U004,6834.47,Flipkart,Bangalore,ATM,13,2,0
+U003,43442.88,Zomato,New York,UPI,20,0,1
+U003,25974.55,Amazon,New York,UPI,1,0,1
+U005,24121.27,Myntra,New York,Online,8,6,1
+U001,43007.94,Amazon,Bangalore,UPI,8,4,1
+U004,36974.9,Myntra,Mumbai,UPI,7,3,0
+U002,41394.37,Myntra,Bangalore,ATM,12,3,1
+U001,48696.26,Myntra,London,ATM,17,4,1
+U004,35652.07,Zomato,Bangalore,UPI,5,0,0
+U002,24409.48,Swiggy,Bangalore,Online,14,0,0
+U005,34647.78,Zomato,New York,UPI,9,3,1
+U001,14204.64,Uber,London,In-Store,7,3,1
+U004,19806.09,Zomato,New York,UPI,11,2,1
+U001,1253.49,Uber,New York,ATM,18,4,1
+U005,7542.88,Flipkart,Bangalore,Online,6,3,0
+U001,9176.24,Paytm,Bangalore,Online,16,1,0
+U004,22167.59,Paytm,Bangalore,UPI,15,6,0
+U001,47429.14,Amazon,Delhi,UPI,16,5,1
+U001,14117.42,Zomato,New York,UPI,2,1,1
+U001,23904.18,Amazon,Mumbai,UPI,1,5,0
+U002,44985.27,Uber,Delhi,ATM,0,4,1
+U003,42199.62,Paytm,London,ATM,0,0,1
+U002,27208.64,Ola,London,In-Store,2,2,1
+U004,20192.45,Zomato,Delhi,ATM,13,2,0
+U001,36091.21,Zomato,London,UPI,22,5,1
+U005,46826.82,Swiggy,London,In-Store,4,4,1
+U004,20901.48,Amazon,New York,UPI,11,5,1
+U004,38843.48,Flipkart,Delhi,ATM,7,2,0
+U003,29333.65,Uber,Mumbai,In-Store,23,0,0
+U001,47309.26,Uber,Mumbai,Online,2,5,1
+U002,42229.38,Paytm,New York,UPI,22,3,1
+U005,22544.44,Uber,Bangalore,UPI,6,4,0
+U005,22159.82,Swiggy,New York,UPI,11,4,1
+U004,42839.87,Paytm,Indore,In-Store,11,0,1
+U003,12682.16,Myntra,New York,UPI,2,5,1
+U002,28739.36,Uber,London,UPI,19,0,1
+U004,21956.55,Myntra,London,In-Store,22,4,1
+U003,35147.46,Amazon,Delhi,In-Store,16,3,0
+U002,26970.9,Amazon,Indore,Online,20,5,0
+U003,17608.62,Ola,Mumbai,UPI,8,5,0
+U005,17167.51,Flipkart,Bangalore,ATM,3,6,0
+U002,25309.16,Amazon,Delhi,ATM,3,0,0
+U003,28814.37,Swiggy,Bangalore,Online,3,3,0
+U001,9838.19,Ola,Delhi,ATM,3,0,0
+U005,27704.63,Uber,London,ATM,15,4,1
+U001,10547.16,Paytm,Mumbai,UPI,0,5,0
+U003,39539.66,Amazon,Bangalore,UPI,7,5,0
+U001,44663.79,Swiggy,Mumbai,UPI,4,6,1
+U005,24042.74,Myntra,Bangalore,Online,9,3,0
+U002,25906.4,Ola,London,Online,15,5,1
+U005,1795.67,Flipkart,Indore,UPI,19,6,0
+U005,7411.34,Paytm,London,UPI,22,6,1
+U004,11115.11,Swiggy,New York,In-Store,0,6,1
+U004,46796.8,Flipkart,New York,UPI,13,4,1
+U005,22601.23,Paytm,London,In-Store,5,4,1
+U002,20430.63,Uber,Bangalore,ATM,16,3,0
+U003,32869.39,Paytm,New York,In-Store,10,3,1
+U004,38522.94,Flipkart,Delhi,Online,15,1,0
+U001,21506.62,Flipkart,New York,UPI,11,6,1
+U004,23133.35,Paytm,London,In-Store,20,4,1
+U002,2895.3,Swiggy,Indore,Online,17,2,0
+U003,20495.73,Paytm,New York,Online,21,0,1
+U003,11681.61,Swiggy,Indore,ATM,18,0,0
+U003,4510.97,Swiggy,Mumbai,UPI,7,5,0
+U005,15325.99,Flipkart,Bangalore,Online,10,2,0
+U003,11733.26,Myntra,Indore,UPI,20,5,0
+U003,28270.26,Amazon,Delhi,UPI,9,2,0
+U005,41426.87,Myntra,Mumbai,Online,10,4,1
+U002,272.42,Uber,Delhi,Online,18,3,0
+U001,29618.76,Uber,Mumbai,UPI,19,3,0
+U001,26765.25,Uber,Indore,ATM,20,2,0
+U002,39103.27,Amazon,Delhi,ATM,1,1,0
+U003,47688.22,Ola,Indore,ATM,23,2,1
+U003,42151.62,Ola,London,Online,21,1,1
+U005,18956.17,Amazon,Mumbai,In-Store,11,5,0
+U003,44480.26,Paytm,Indore,In-Store,2,3,1
+U003,22291.3,Swiggy,Mumbai,Online,16,3,0
+U001,41044.67,Amazon,New York,ATM,23,6,1
+U001,13210.34,Paytm,Mumbai,In-Store,16,5,0
+U003,34713.77,Myntra,Mumbai,Online,22,1,0
+U003,31126.56,Ola,Delhi,Online,2,3,0
+U002,8308.99,Swiggy,Delhi,ATM,16,5,0
+U003,45341.5,Paytm,Delhi,ATM,23,5,1
+U001,26931.34,Myntra,Mumbai,In-Store,7,3,0
+U005,17132.94,Ola,Delhi,Online,2,4,0
+U002,40156.3,Paytm,Mumbai,UPI,1,5,1
+U003,18166.72,Flipkart,London,Online,14,4,1
+U004,42488.95,Swiggy,Delhi,In-Store,9,4,1
+U003,33207.46,Swiggy,London,In-Store,15,3,1
+U005,1291.11,Uber,New York,ATM,18,0,1
+U005,13652.25,Uber,Indore,UPI,1,2,0
+U005,22792.41,Swiggy,Bangalore,ATM,9,2,0
+U001,12995.15,Ola,Mumbai,Online,1,4,0
+U003,2259.08,Amazon,Indore,ATM,10,6,0
+U001,24529.02,Flipkart,Indore,ATM,18,2,0
+U004,31147.67,Swiggy,Indore,UPI,21,3,0
+U005,5390.43,Zomato,Bangalore,In-Store,22,6,0
+U005,42500.72,Amazon,Indore,ATM,21,3,1
+U003,25297.9,Swiggy,Bangalore,In-Store,16,1,0
+U002,25869.4,Uber,Indore,Online,16,5,0
+U005,21962.67,Ola,New York,ATM,11,2,1
+U002,3025.22,Swiggy,New York,Online,14,3,1
+U003,20979.36,Paytm,Delhi,ATM,13,0,0
+U003,9457.86,Uber,Mumbai,Online,13,5,0
+U005,38018.15,Zomato,Mumbai,UPI,23,4,0
+U003,27640.68,Flipkart,Bangalore,Online,15,4,0
+U002,33178.64,Uber,Delhi,Online,2,1,0
+U004,32358.06,Flipkart,Delhi,ATM,20,3,0
+U003,29653.08,Amazon,New York,UPI,8,0,1
+U002,32870.91,Amazon,London,In-Store,17,4,1
+U005,20279.53,Paytm,Indore,ATM,4,1,0
+U003,2301.86,Swiggy,Mumbai,Online,17,3,0
+U004,1338.3,Myntra,New York,Online,7,4,1
+U005,19656.76,Myntra,Indore,In-Store,14,5,0
+U002,45585.66,Uber,New York,In-Store,8,0,1
+U002,321.75,Amazon,Bangalore,UPI,13,1,0
+U004,34234.42,Paytm,New York,ATM,22,0,1
+U003,3756.14,Flipkart,Indore,In-Store,3,0,0
+U002,8161.21,Flipkart,Delhi,UPI,8,4,0
+U004,32514.79,Paytm,London,ATM,1,0,1
+U002,404.56,Zomato,Delhi,UPI,18,5,0
+U003,45401.87,Swiggy,Indore,In-Store,23,2,1
+U003,44127.28,Myntra,London,UPI,1,2,1
+U003,49526.88,Amazon,Delhi,Online,23,6,1
+U002,5442.25,Myntra,Bangalore,In-Store,7,4,0
+U001,3900.09,Uber,Delhi,Online,16,6,0
+U004,40027.24,Uber,Bangalore,Online,17,3,1
+U005,44380.4,Uber,Mumbai,ATM,2,5,1
+U003,45784.83,Myntra,London,UPI,22,2,1
+U004,17616.83,Ola,Delhi,Online,19,0,0
+U004,9963.76,Ola,Indore,Online,18,1,0
+U001,4981.74,Uber,Bangalore,In-Store,21,2,0
+U004,874.89,Zomato,Indore,Online,8,4,0
+U004,14918.11,Amazon,Delhi,UPI,21,0,0
+U003,17906.84,Paytm,Indore,ATM,12,3,0
+U004,49730.05,Swiggy,Bangalore,UPI,19,4,1
+U005,11597.95,Swiggy,London,UPI,1,2,1
+U004,9936.93,Ola,Indore,UPI,1,4,0
+U002,7417.11,Flipkart,London,Online,16,3,1
+U002,32330.24,Amazon,Delhi,In-Store,6,5,0
+U003,43114.69,Zomato,Delhi,ATM,23,6,1
+U004,36847.38,Ola,Bangalore,UPI,17,0,0
+U004,19296.55,Zomato,New York,In-Store,13,4,1
+U002,26470.39,Myntra,London,ATM,19,2,1
+U005,43493.23,Amazon,Mumbai,Online,0,6,1
+U003,10938.33,Myntra,Bangalore,UPI,23,5,0
+U003,23419.87,Myntra,Delhi,Online,23,0,0
+U001,21630.34,Flipkart,New York,In-Store,3,6,1
+U005,45987.2,Ola,Bangalore,UPI,1,5,1
+U005,38915.21,Myntra,New York,UPI,18,5,1
+U005,42875.92,Zomato,Mumbai,UPI,22,0,1
+U002,4955.31,Uber,New York,UPI,22,4,1
+U002,34170.87,Zomato,Mumbai,ATM,9,3,0
+U003,5452.98,Ola,Mumbai,UPI,17,2,0
+U005,25005.14,Swiggy,Mumbai,In-Store,19,5,0
+U001,25735.71,Ola,New York,UPI,8,5,1
+U005,7396.21,Amazon,Delhi,UPI,19,2,0
+U001,2014.05,Ola,New York,Online,1,3,1
+U004,7997.74,Flipkart,London,ATM,15,3,1
+U003,39634.96,Swiggy,Bangalore,Online,0,0,0
+U005,5226.41,Myntra,Indore,UPI,16,6,0
+U005,15277.19,Flipkart,Indore,In-Store,16,2,0
+U003,26883.64,Zomato,Indore,UPI,13,3,0
+U002,20275.46,Paytm,Mumbai,Online,13,5,0
+U002,23817.27,Paytm,New York,In-Store,1,5,1
+U002,18442.72,Ola,New York,Online,22,6,1
+U002,46191.97,Flipkart,Bangalore,UPI,5,6,1
+U003,45724.49,Flipkart,Indore,ATM,13,3,1
+U004,34304.44,Paytm,New York,In-Store,10,5,1
+U003,38381.1,Swiggy,Mumbai,UPI,19,0,0
+U002,20434.86,Paytm,Delhi,ATM,9,6,0
+U001,40031.74,Ola,Mumbai,Online,14,4,1
+U001,24481.6,Amazon,New York,UPI,11,3,1
+U003,38108.02,Swiggy,Bangalore,In-Store,0,2,0
+U001,38793.51,Flipkart,Bangalore,In-Store,15,3,0
+U001,40962.57,Myntra,Bangalore,ATM,6,4,1
+U003,43193.8,Swiggy,Delhi,UPI,4,4,1
+U001,32398.68,Amazon,Mumbai,UPI,2,5,0
+U004,31189.64,Paytm,Delhi,UPI,12,2,0
+U001,22948.92,Paytm,New York,In-Store,13,6,1
+U005,1613.69,Amazon,Bangalore,Online,18,5,0
+U003,34677.37,Uber,Indore,ATM,23,6,0
+U003,45771.16,Amazon,London,Online,11,4,1
+U003,38851.15,Zomato,New York,In-Store,22,3,1
+U001,26817.71,Paytm,Indore,Online,16,0,0
+U002,12214.52,Amazon,New York,ATM,6,0,1
+U001,13110.85,Zomato,Delhi,In-Store,3,1,0
+U001,10188.67,Zomato,Mumbai,UPI,10,3,0
+U003,39038.85,Flipkart,Indore,Online,1,5,0
+U005,34376.52,Zomato,New York,ATM,22,4,1
+U005,40839.07,Flipkart,London,Online,5,3,1
+U005,39372.68,Myntra,Mumbai,UPI,4,5,0
+U005,11721.24,Flipkart,Indore,UPI,23,6,0
+U002,25250.38,Amazon,New York,Online,14,2,1
+U004,1802.73,Swiggy,Mumbai,In-Store,7,4,0
+U001,36074.91,Uber,New York,UPI,9,1,1
+U005,8220.76,Uber,London,UPI,15,0,1
+U003,31682.26,Swiggy,Indore,UPI,8,2,0
+U003,24028.78,Ola,London,Online,8,5,1
+U005,9425.93,Swiggy,Indore,In-Store,5,6,0
+U001,46240.66,Swiggy,New York,In-Store,6,0,1
+U005,33769.42,Zomato,Delhi,Online,15,4,0
+U002,8494.08,Swiggy,Delhi,In-Store,13,3,0
+U004,31336.32,Amazon,Bangalore,In-Store,15,1,0
+U004,45260.15,Swiggy,Mumbai,Online,5,4,1
+U002,36376.56,Uber,Bangalore,ATM,15,2,0
+U004,484.54,Amazon,Mumbai,In-Store,11,0,0
+U002,45032.72,Amazon,Bangalore,In-Store,18,4,1
+U002,38707.36,Uber,Mumbai,UPI,11,2,0
+U004,38778.55,Myntra,Bangalore,In-Store,9,1,0
+U001,2621.07,Swiggy,Delhi,Online,3,0,0
+U005,32071.2,Flipkart,London,UPI,1,6,1
+U003,28825.4,Flipkart,Bangalore,Online,7,4,0
+U002,9465.04,Flipkart,Bangalore,UPI,3,5,0
+U005,28840.25,Uber,New York,In-Store,6,5,1
+U003,12468.21,Myntra,Bangalore,ATM,15,5,0
+U002,6444.89,Myntra,Bangalore,UPI,9,3,0
+U005,11463.56,Paytm,Indore,In-Store,14,2,0
+U005,20197.29,Uber,Mumbai,In-Store,7,6,0
+U005,18127.16,Flipkart,London,Online,1,2,1
+U005,26012.61,Uber,Indore,UPI,8,3,0
+U002,29418.13,Swiggy,Mumbai,UPI,19,5,0
+U003,3989.54,Ola,Bangalore,UPI,15,0,0
+U005,22230.47,Zomato,Indore,Online,8,2,0
+U005,26234.89,Ola,Mumbai,In-Store,1,4,0
+U005,12783.86,Paytm,Mumbai,UPI,19,1,0
+U003,39003.52,Zomato,New York,ATM,3,6,1
+U003,7897.82,Swiggy,Delhi,Online,2,3,0
+U001,11108.59,Myntra,Mumbai,Online,1,1,0
+U001,49509.0,Amazon,New York,ATM,5,0,1
+U003,49805.66,Paytm,London,ATM,17,1,1
+U004,39891.83,Swiggy,Bangalore,UPI,23,4,0
+U002,42096.75,Paytm,Mumbai,UPI,4,5,1
+U004,33607.18,Flipkart,Indore,ATM,0,4,0
+U005,12771.51,Swiggy,London,Online,19,3,1
+U001,32553.77,Amazon,Delhi,ATM,5,1,0
+U001,9108.26,Flipkart,New York,ATM,3,6,1
+U003,43042.85,Swiggy,Bangalore,UPI,1,2,1
+U002,7057.02,Ola,Indore,Online,2,2,0
+U004,25779.45,Ola,New York,Online,16,4,1
+U005,20741.52,Uber,Mumbai,Online,5,4,0
+U002,25534.68,Amazon,New York,Online,23,4,1
+U001,18874.96,Zomato,London,UPI,9,6,1
+U002,27393.36,Ola,Indore,UPI,16,1,0
+U001,7964.86,Myntra,Bangalore,In-Store,7,2,0
+U002,7123.81,Paytm,Bangalore,In-Store,20,0,0
+U004,2445.6,Uber,Bangalore,Online,21,4,0
+U003,35255.79,Paytm,Bangalore,UPI,16,1,0
+U002,4388.67,Ola,Bangalore,ATM,13,2,0
+U002,31773.7,Ola,Delhi,In-Store,10,4,0
+U004,47825.9,Zomato,Bangalore,ATM,21,3,1
+U002,1557.05,Uber,Bangalore,In-Store,21,0,0
+U004,23790.6,Uber,New York,UPI,5,1,1
+U004,7237.6,Myntra,Mumbai,In-Store,16,3,0
+U005,26653.85,Paytm,Mumbai,Online,17,0,0
+U004,6227.85,Paytm,London,ATM,3,2,1
+U003,3405.57,Paytm,Mumbai,UPI,6,0,0
+U003,39754.91,Zomato,Delhi,UPI,9,4,0
+U001,33713.58,Ola,Mumbai,UPI,13,6,0
+U001,27533.97,Myntra,New York,Online,2,4,1
+U002,34730.06,Amazon,Bangalore,UPI,16,1,0
+U001,7651.57,Swiggy,Indore,ATM,10,3,0
+U003,27529.6,Uber,Mumbai,UPI,1,0,0
+U003,17843.07,Zomato,Indore,UPI,21,4,0
+U003,36239.21,Myntra,New York,In-Store,16,2,1
+U002,26381.6,Myntra,London,Online,22,0,1
+U001,21970.26,Swiggy,New York,Online,14,2,1
+U001,2317.37,Ola,Delhi,ATM,10,6,0
+U005,10296.73,Paytm,Bangalore,UPI,4,4,0
+U003,10035.14,Zomato,Mumbai,UPI,2,2,0
+U003,39582.19,Ola,London,Online,22,0,1
+U002,1394.4,Ola,London,Online,3,0,1
+U004,5803.13,Paytm,London,ATM,3,1,1
+U003,31053.47,Zomato,Bangalore,ATM,23,2,0
+U004,22815.74,Zomato,Mumbai,Online,7,4,0
+U005,39565.95,Myntra,New York,UPI,2,1,1
+U001,15650.93,Myntra,Bangalore,Online,23,1,0
+U002,44357.57,Swiggy,London,Online,0,5,1
+U005,21629.45,Myntra,Delhi,ATM,3,6,0
+U002,44966.86,Uber,Bangalore,UPI,1,3,1
+U001,1413.25,Zomato,New York,In-Store,9,2,1
+U002,21270.52,Flipkart,New York,UPI,10,4,1
+U002,47666.53,Amazon,Delhi,ATM,14,6,1
+U003,40498.47,Uber,Indore,ATM,14,1,1
+U001,32626.15,Amazon,London,ATM,21,6,1
+U005,39279.14,Flipkart,London,Online,6,6,1
+U002,27514.88,Flipkart,London,In-Store,20,0,1
+U004,6037.81,Zomato,Indore,Online,8,0,0
+U002,24860.14,Zomato,Mumbai,UPI,2,0,0
+U005,18295.92,Zomato,New York,ATM,0,4,1
+U004,17277.59,Ola,Bangalore,ATM,21,1,0
+U003,9747.98,Myntra,New York,Online,22,0,1
+U003,40436.58,Uber,Delhi,Online,10,0,1
+U004,21753.68,Flipkart,New York,In-Store,15,0,1
+U002,21627.55,Paytm,London,ATM,12,3,1
+U001,34840.06,Uber,New York,UPI,9,6,1
+U002,15352.6,Uber,Delhi,In-Store,0,0,0
+U002,46441.62,Uber,Delhi,Online,19,1,1
+U004,12174.43,Swiggy,Mumbai,In-Store,3,2,0
+U001,47594.13,Paytm,New York,UPI,21,6,1
+U005,14065.88,Swiggy,New York,In-Store,17,6,1
+U005,45289.63,Ola,Bangalore,UPI,18,6,1
+U003,41724.65,Ola,Indore,ATM,5,4,1
+U005,38363.77,Swiggy,New York,In-Store,21,5,1
+U005,17259.07,Swiggy,Indore,In-Store,2,2,0
+U001,13001.81,Zomato,Bangalore,In-Store,0,1,0
+U003,45649.45,Paytm,New York,In-Store,8,0,1
+U005,11067.74,Paytm,London,In-Store,20,4,1
+U004,2825.1,Amazon,Indore,ATM,11,0,0
+U005,8110.77,Ola,Delhi,ATM,20,4,0
+U003,39841.56,Paytm,Indore,Online,8,5,0
+U004,45902.05,Uber,Mumbai,UPI,20,0,1
+U004,17916.08,Myntra,New York,ATM,7,3,1
+U001,32641.87,Ola,Mumbai,UPI,7,2,0
+U005,23090.83,Ola,Mumbai,Online,0,2,0
+U001,26867.99,Amazon,Delhi,ATM,8,4,0
+U002,43489.35,Zomato,Indore,UPI,2,5,1
+U002,44741.13,Myntra,Delhi,Online,12,0,1
+U004,3422.07,Paytm,Delhi,ATM,21,6,0
+U002,34702.72,Myntra,Bangalore,Online,6,3,0
+U001,18933.88,Swiggy,Delhi,Online,21,1,0
+U004,48382.9,Uber,Bangalore,ATM,9,3,1
+U005,47721.61,Ola,London,In-Store,6,2,1
+U002,16797.79,Flipkart,New York,In-Store,23,3,1
+U005,345.77,Paytm,Delhi,Online,14,0,0
+U001,12870.32,Amazon,Delhi,In-Store,3,3,0
+U005,45150.72,Paytm,London,In-Store,14,4,1
+U004,49435.87,Myntra,Mumbai,UPI,2,5,1
+U005,14200.3,Flipkart,Delhi,In-Store,17,4,0
+U003,39583.96,Myntra,Delhi,ATM,20,6,0
+U004,44302.3,Flipkart,Bangalore,In-Store,6,5,1
+U003,13826.66,Ola,Mumbai,In-Store,10,2,0
+U003,40197.78,Swiggy,London,Online,18,0,1
+U002,42834.18,Amazon,London,Online,17,2,1
+U004,37068.77,Flipkart,Indore,In-Store,9,6,0
+U003,44891.95,Uber,Mumbai,Online,4,3,1
+U001,34180.59,Amazon,New York,In-Store,8,4,1
+U002,36894.23,Myntra,Indore,In-Store,4,2,0
+U001,844.21,Swiggy,Indore,In-Store,5,6,0
+U001,4674.61,Amazon,Bangalore,ATM,17,3,0
+U003,972.63,Zomato,Bangalore,ATM,13,4,0
+U005,26477.89,Swiggy,Mumbai,Online,0,1,0
+U005,18606.23,Amazon,Delhi,ATM,8,3,0
+U002,861.77,Uber,Mumbai,ATM,8,1,0
+U001,11315.66,Zomato,Mumbai,ATM,1,0,0
+U002,13736.74,Paytm,New York,UPI,22,4,1
+U002,20687.74,Ola,Indore,Online,16,2,0
+U004,25627.61,Ola,New York,ATM,14,6,1
+U002,5245.3,Myntra,London,In-Store,16,3,1
+U005,11729.43,Flipkart,Delhi,UPI,10,5,0
+U002,21980.46,Paytm,Mumbai,UPI,19,5,0
+U002,44399.32,Uber,New York,In-Store,11,5,1
+U001,20600.75,Ola,Indore,Online,0,4,0
+U004,33382.04,Paytm,Indore,In-Store,13,3,0
+U002,12375.08,Paytm,Delhi,In-Store,3,2,0
+U001,49029.61,Ola,Delhi,UPI,3,2,1
+U002,21135.28,Ola,Mumbai,Online,9,6,0
+U005,30247.48,Uber,Bangalore,ATM,3,2,0
+U002,11747.63,Myntra,Delhi,ATM,18,2,0
+U001,2914.05,Amazon,Bangalore,ATM,5,2,0
+U001,485.5,Ola,London,UPI,10,1,1
+U005,11181.95,Amazon,Bangalore,Online,8,3,0
+U002,31728.09,Swiggy,Mumbai,In-Store,3,5,0
+U003,451.37,Flipkart,Bangalore,UPI,18,6,0
+U003,9579.72,Amazon,Indore,Online,12,6,0
+U005,41359.97,Amazon,Indore,In-Store,11,4,1
+U004,32191.01,Zomato,Indore,In-Store,9,4,0
+U004,43711.77,Swiggy,Delhi,UPI,17,5,1
+U005,10031.37,Zomato,Mumbai,ATM,9,2,0
+U002,39666.9,Flipkart,Mumbai,Online,23,1,0
+U003,30251.26,Amazon,Bangalore,ATM,4,6,0
+U002,15618.78,Zomato,Indore,ATM,4,5,0
+U004,7436.4,Myntra,Bangalore,UPI,12,4,0
+U003,16910.44,Uber,Mumbai,In-Store,1,3,0
+U002,16606.93,Paytm,Bangalore,ATM,17,2,0
+U001,43747.43,Flipkart,Indore,Online,3,3,1
+U002,45039.63,Swiggy,Indore,UPI,3,3,1
+U003,40515.01,Paytm,Delhi,Online,2,5,1
+U003,30311.01,Myntra,London,Online,14,3,1
+U002,22024.57,Ola,Mumbai,In-Store,8,1,0
+U003,28604.95,Uber,New York,Online,0,1,1
+U004,13270.87,Swiggy,Mumbai,UPI,11,5,0
+U003,2775.42,Myntra,Indore,In-Store,9,5,0
+U005,31465.47,Amazon,New York,UPI,9,6,1
+U004,8848.24,Zomato,Bangalore,In-Store,4,0,0
+U003,42366.45,Myntra,London,In-Store,15,4,1
+U005,12029.67,Flipkart,New York,UPI,10,1,1
+U001,49447.88,Swiggy,London,UPI,7,1,1
+U002,12271.02,Myntra,New York,UPI,23,3,1
+U004,10216.34,Swiggy,Indore,ATM,4,0,0
+U001,11963.81,Flipkart,Delhi,In-Store,23,5,0
+U003,11177.49,Flipkart,Mumbai,ATM,4,2,0
+U004,16520.82,Zomato,Mumbai,Online,4,6,0
+U002,25880.95,Amazon,Delhi,Online,6,3,0
+U004,6091.11,Swiggy,Indore,Online,4,5,0
+U001,48389.72,Zomato,Bangalore,In-Store,8,3,1
+U001,17480.57,Myntra,London,UPI,8,1,1
+U005,33782.67,Amazon,Indore,In-Store,12,0,0
+U003,43767.57,Amazon,Delhi,In-Store,18,4,1
+U005,6333.85,Swiggy,Delhi,In-Store,0,3,0
+U002,41417.32,Ola,Bangalore,Online,1,2,1
+U002,7987.16,Paytm,Bangalore,UPI,18,1,0
+U004,34812.8,Myntra,Mumbai,In-Store,22,1,0
+U002,12124.89,Amazon,Bangalore,In-Store,0,1,0
+U002,33285.91,Uber,London,UPI,19,5,1
+U002,2845.99,Uber,Indore,UPI,8,6,0
+U005,16798.24,Uber,Bangalore,UPI,2,6,0
+U005,11449.8,Ola,London,Online,8,2,1
+U005,46357.78,Swiggy,Delhi,Online,18,4,1
+U001,45763.77,Swiggy,Delhi,UPI,10,4,1
+U002,37407.5,Flipkart,Delhi,ATM,4,0,0
+U005,44054.41,Ola,Delhi,In-Store,15,2,1
+U004,39650.48,Flipkart,Indore,In-Store,15,0,0
+U001,45403.5,Paytm,Delhi,ATM,2,2,1
+U005,30008.12,Myntra,Indore,In-Store,6,4,0
+U002,15315.19,Ola,Mumbai,ATM,14,1,0
+U004,10914.45,Myntra,Mumbai,ATM,18,4,0
+U002,38400.44,Zomato,Mumbai,Online,10,6,0
+U001,19011.06,Amazon,Bangalore,In-Store,11,3,0
+U005,5894.99,Swiggy,New York,In-Store,5,4,1
+U005,37654.88,Flipkart,Mumbai,In-Store,6,6,0
+U004,49709.59,Swiggy,Bangalore,Online,9,2,1
+U003,29267.64,Ola,London,UPI,20,1,1
+U004,45124.5,Myntra,Indore,Online,18,4,1
+U003,36486.61,Zomato,London,UPI,13,1,1
+U003,23279.22,Flipkart,London,UPI,18,0,1
+U002,39828.61,Swiggy,New York,In-Store,2,3,1
+U004,7019.71,Uber,Mumbai,In-Store,10,4,0
+U002,14958.24,Zomato,Delhi,In-Store,17,5,0
+U002,32890.32,Swiggy,Mumbai,In-Store,17,4,0
+U005,27465.49,Myntra,Mumbai,UPI,18,2,0
+U003,5941.67,Zomato,Mumbai,Online,20,5,0
+U001,15267.0,Zomato,Mumbai,Online,8,3,0
+U005,2973.16,Zomato,Bangalore,ATM,18,3,0
+U001,38705.73,Zomato,Delhi,Online,18,3,0
+U005,42758.88,Paytm,Mumbai,Online,12,2,1
+U005,15448.63,Zomato,Delhi,Online,4,3,0
+U005,31989.57,Zomato,London,In-Store,5,2,1
+U003,15775.36,Zomato,London,In-Store,15,6,1
+U002,43280.55,Ola,Mumbai,In-Store,19,5,1
+U005,41096.58,Ola,Indore,Online,13,3,1
+U003,10534.23,Zomato,Bangalore,ATM,12,6,0
+U002,22905.01,Ola,London,UPI,5,2,1
+U003,8906.69,Ola,New York,In-Store,23,1,1
+U002,20696.62,Myntra,Indore,Online,18,1,0
+U005,24969.72,Ola,Delhi,ATM,8,6,0
+U003,21674.37,Uber,London,Online,17,4,1
+U001,39193.26,Ola,Bangalore,ATM,11,4,0
+U001,13365.66,Myntra,Bangalore,UPI,7,2,0
+U004,13371.47,Flipkart,Indore,Online,7,0,0
